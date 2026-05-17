@@ -1,0 +1,30 @@
+# --- Core Data Manipulation & Math ---
+pandas
+numpy
+scipy
+
+# --- Machine Learning & Deep Learning ---
+scikit-learn
+xgboost
+torch
+torchvision
+
+# --- Topological Data Analysis ---
+giotto-tda
+
+# --- Hyperparameter Optimization ---
+optuna
+
+# --- Data Visualization ---
+matplotlib
+seaborn
+
+# --- Data Collection & Web Scraping ---
+requests
+python-binance
+selenium
+beautifulsoup4
+
+# --- Text Processing & Utilities ---
+rapidfuzz
+vietocr
